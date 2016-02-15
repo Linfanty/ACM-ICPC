@@ -7,7 +7,11 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
+<<<<<<< HEAD
+				<Option output="bin/Debug/4" prefix_auto="1" extension_auto="1" />
+=======
 				<Option output="bin/Debug/4. Median of Two Sorted Arrays" prefix_auto="1" extension_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +20,11 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
+<<<<<<< HEAD
+				<Option output="bin/Release/4" prefix_auto="1" extension_auto="1" />
+=======
 				<Option output="bin/Release/4. Median of Two Sorted Arrays" prefix_auto="1" extension_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -35,9 +43,13 @@
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
+<<<<<<< HEAD
+			<debugger />
+=======
 			<envvars />
 			<debugger />
 			<lib_finder disable_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

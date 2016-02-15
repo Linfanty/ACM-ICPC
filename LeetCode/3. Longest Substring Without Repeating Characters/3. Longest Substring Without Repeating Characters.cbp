@@ -8,10 +8,17 @@
 		<Build>
 			<Target title="Debug">
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Option output="bin/Debug/3. Longest Substring Without Repeating Characters" prefix_auto="1" extension_auto="1" />
 =======
 				<Option output="bin/Debug/3" prefix_auto="1" extension_auto="1" />
 >>>>>>> 5446e1b223acc359e01baf5cfca966d1fe6a298c
+=======
+				<Option output="bin/Debug/3" prefix_auto="1" extension_auto="1" />
+=======
+				<Option output="bin/Debug/3. Longest Substring Without Repeating Characters" prefix_auto="1" extension_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
+>>>>>>> 37714f7b0992c5a9ab165acb59b4170e0f0287fe
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -21,10 +28,17 @@
 			</Target>
 			<Target title="Release">
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Option output="bin/Release/3. Longest Substring Without Repeating Characters" prefix_auto="1" extension_auto="1" />
 =======
 				<Option output="bin/Release/3" prefix_auto="1" extension_auto="1" />
 >>>>>>> 5446e1b223acc359e01baf5cfca966d1fe6a298c
+=======
+				<Option output="bin/Release/3" prefix_auto="1" extension_auto="1" />
+=======
+				<Option output="bin/Release/3. Longest Substring Without Repeating Characters" prefix_auto="1" extension_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
+>>>>>>> 37714f7b0992c5a9ab165acb59b4170e0f0287fe
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -44,12 +58,21 @@
 		<Extensions>
 			<code_completion />
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<envvars />
 			<debugger />
 			<lib_finder disable_auto="1" />
 =======
 			<debugger />
 >>>>>>> 5446e1b223acc359e01baf5cfca966d1fe6a298c
+=======
+			<debugger />
+=======
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+>>>>>>> 89207da204b8acc59fd38dc4662ad168082fb381
+>>>>>>> 37714f7b0992c5a9ab165acb59b4170e0f0287fe
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
